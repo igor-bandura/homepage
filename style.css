@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(71, 63, 63);
+    }
+    nav a  {
+        color:#55e911;
+        
+    }
+nav{
+        color:#55e911;
+        
+}
+p{
+    color:#ffffff;
+}
+
+h1{
+    color:rgb(94, 31, 31);
+    text-shadow: 3px 3px 2px gray;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2{
+    color: #cebf40
+
+}
+h3{
+    color: yellowgreen
+}
+
+
+footer{
+    text-align: center;
+}
