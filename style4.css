@@ -5,10 +5,8 @@ body{
         color:#55e911;
         
     }
-nav{
-        color:#55e911;
-        
-}
+     
+
 p{
     color:#ffffff;
 }
@@ -26,4 +24,11 @@ img{
 footer{
     text-align:center;
     
+}
+.navigation{
+
+    color: #55e911;
+    display: block;
+      margin:0 auto;
+      width:100px;
 }
